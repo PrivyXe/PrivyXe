@@ -1,132 +1,155 @@
+<!-- ANIMATED HEADER BANNER -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/PrivyXe/PrivyXe/main/banner.svg" />
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=🔥+Building+systems+others+can't+imagine...;⚡+Solana+MEV+%7C+AI+Automation+%7C+Android;🌐+Cloudflare+Workers+%7C+VPN+Protocols;🤖+Vertex+AI+%7C+GPT+Pipelines+%7C+PDF+Parsers;📡+V2Ray+%7C+Hysteria2+%7C+WireGuard+%7C+Shadowsocks;💀+Open+for+freelance+→+t.me%2Fe3x6v" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- BADGES -->
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗██╗   ██╗██╗   ██╗██╗  ██╗███████╗
-██╔══██╗██╔══██╗██║██║   ██║╚██╗ ██╔╝╚██╗██╔╝██╔════╝
-██████╔╝██████╔╝██║██║   ██║ ╚████╔╝  ╚███╔╝ █████╗
-██╔═══╝ ██╔══██╗██║╚██╗ ██╔╝  ╚██╔╝   ██╔██╗ ██╔══╝
-██║     ██║  ██║██║ ╚████╔╝    ██║   ██╔╝ ██╗███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚══════╝
-```
-
-**Systems Engineer · AI Automation · Blockchain · Mobile · Network**
-
-[![Telegram](https://img.shields.io/badge/Telegram-@e3x6v-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/e3x6v)
-[![X](https://img.shields.io/badge/X-@PrivyXe-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PrivyXe)
-[![Profile Views](https://komarev.com/ghpvc/?username=PrivyXe&style=for-the-badge&color=blueviolet)](https://github.com/PrivyXe)
+[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FF6B00)](https://t.me/e3x6v)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF6B00)](https://x.com/PrivyXe)
+[![Website](https://img.shields.io/badge/myipaddress.app-0D1117?style=for-the-badge&logo=firefox&logoColor=FF6B00)](https://myipaddress.app)
+[![Views](https://komarev.com/ghpvc/?username=PrivyXe&style=for-the-badge&color=0D1117&label=VISITORS&labelColor=0D1117)](https://github.com/PrivyXe)
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
+<!-- ABOUT -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=PrivyXe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FFA500&text_color=ffffff&ring_color=FF6B00" />
 
-```python
-class PrivyXe:
-    location  = "Turkey 🇹🇷"
-    contact   = "t.me/e3x6v"
-    mindset   = "If it can be automated, it will be automated."
+### `> whoami`
 
-    skills = {
-        "AI & Automation" : ["Vertex AI", "GPT APIs", "PDF parsing", "news generation", "niche SEO content"],
-        "Blockchain"      : ["Solana Native Rust", "MEV bots", "Jito bundles", "trading bots"],
-        "Mobile"          : ["Android / Kotlin", "Bluetooth HID", "VPN clients", "MVVM"],
-        "Web & SaaS"      : ["Next.js", "Python", "Cloudflare Workers", "browser extensions"],
-        "Network"         : ["V2Ray", "Hysteria2", "WireGuard", "Shadowsocks", "OpenVPN"],
-        "Trading & TA"    : ["Technical analysis tools", "signal bots", "chart pattern detection"],
-    }
+```
+Name     : PrivyXe
+Location : Turkey 🇹🇷
+Contact  : t.me/e3x6v
+Status   : Open for freelance
+Mindset  : "If it can be automated,
+            it will be automated."
 ```
 
-> I don't specialize in one thing. I specialize in **connecting** things others can't.  
-> From AI-powered content pipelines to bare-metal Rust on Solana — I go wherever the problem leads.
+### `> cat skills.txt`
+```
+🤖 AI & Automation
+⚡ Blockchain & MEV
+📱 Android & Mobile
+🌐 Web · SaaS · Edge
+🔐 Network Protocols
+📊 Trading & TA
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🤖 AI & Automation
 
-> *"Why do it once when a machine can do it forever?"*
+<img align="left" width="38" src="https://skillicons.dev/icons?i=gcp"/>
+<img align="left" width="38" src="https://skillicons.dev/icons?i=python"/>
+<img align="left" width="38" src="https://skillicons.dev/icons?i=js"/>
 
-- **Automated News Websites** — Vertex AI + Python pipelines that generate, SEO-optimize and publish articles autonomously
-- **Niche Article Generator** — Topic-aware long-form content engine with keyword targeting and internal linking
-- **Health PDF Interpreter** — Uploads blood test PDFs, parses lab values, returns AI-generated plain-language health commentary
-- **AI API Integrations** — Vertex AI (Google Cloud), OpenAI, Anthropic — production-grade, not toy demos
+<br/><br/>
 
-```
-PDF / Data Input
-      ↓
-  AI Pipeline  (Vertex AI / GPT API)
-      ↓
- Structured Output  (article / report / signal)
-      ↓
-  Auto-publish / Dashboard / Notification
-```
+> **Vertex AI** · **GPT APIs** · **Anthropic** — production pipelines, not toy demos
+
+- 🔥 **AutoNews Engine** — AI pipeline → SEO optimize → auto-publish, fully autonomous
+- 📝 **Niche Article Bot** — keyword targeting, internal linking, long-form generation
+- 🩺 **Health PDF Interpreter** — blood test upload → AI lab parser → plain-language report
+- ⚙️ **API Orchestrator** — multi-provider AI pipelines (GCP · OpenAI · Anthropic)
 
 ---
 
 ## ⚡ Blockchain & Trading
 
-> *"Milliseconds are money. Waste neither."*
+<img align="left" width="38" src="https://skillicons.dev/icons?i=rust"/>
 
-- **Solana MEV Arbitrage Bot** — Native Rust (no Anchor), zero-copy `bytemuck`, panic-free `ArbError` enum
-- **Jito Bundle Engine** — Dynamic tip accounts, `simulateTransaction` profit math, `preBalance/postBalance` delta
-- **Technical Analysis Platform** — 30+ indicators (RSI, MACD, Bollinger), 30+ chart patterns, market regime detection
-- **Trading Signal Bots** — Python-based algorithmic signal generators with Telegram/webhook alerts
+<br/><br/>
+
+> **Solana Native Rust** · **Jito MEV** · **Technical Analysis** — where milliseconds are money
+
+- ⚡ **Solana MEV Bot** — Native Rust, no Anchor, zero-copy `bytemuck`, panic-free `ArbError`
+- 🎯 **Jito Bundle Engine** — dynamic tip accounts, `simulateTransaction`, pre/post balance delta
+- 📊 **TA Platform** — 30+ indicators (RSI, MACD, Bollinger), 30+ patterns, regime detection
+- 🤖 **Signal Bots** — Python algo generators, Telegram & webhook alerts
 
 ---
 
 ## 📱 Android & Mobile
 
-> *"The best mobile app is invisible — it just works."*
+<img align="left" width="38" src="https://skillicons.dev/icons?i=kotlin"/>
+<img align="left" width="38" src="https://skillicons.dev/icons?i=androidstudio"/>
 
-- **Kotlin-first** — MVVM, Coroutines, Flow, Jetpack Compose
-- **VPN Clients** — WireGuard Android SDK, OpenVPN3, custom protocol integration
-- **Bluetooth HID** — Custom keyboard/peripheral apps, BLE communication
-- **Network-aware apps** — Proxy routing, traffic monitoring, DNS control inside Android
+<br/><br/>
+
+> **Kotlin-first** · **MVVM** · **Coroutines** — apps that feel native, not assembled
+
+- 📱 **Architecture** — MVVM, Coroutines, Flow, Jetpack Compose
+- 🔐 **VPN Clients** — WireGuard Android SDK, OpenVPN3, custom protocol integration
+- 📡 **Bluetooth HID** — custom keyboard/peripheral apps, BLE communication
+- 🌐 **Network-aware** — proxy routing, traffic monitoring, DNS control in-app
 
 ---
 
 ## 🌐 Web, SaaS & Edge
 
-> *"Ship fast. Scale silently."*
+<img align="left" width="38" src="https://skillicons.dev/icons?i=nextjs"/>
+<img align="left" width="38" src="https://skillicons.dev/icons?i=cloudflare"/>
+<img align="left" width="38" src="https://skillicons.dev/icons?i=python"/>
 
-- **Next.js SaaS** — App Router, Server Components, Shadcn/UI, real-time WebSocket dashboards
-- **Python Web** — Flask/FastAPI backends, scraping pipelines, automation APIs
-- **Cloudflare Workers** — Edge functions, KV storage, Durable Objects, R2, Workers AI
-- **Browser Extensions** — Chrome/Firefox MV3, content scripts, background workers, ad blocking
+<br/><br/>
+
+> **Next.js** · **Cloudflare Workers** · **Python** — ship fast, scale silently
+
+- ⚡ **Next.js SaaS** — App Router, Server Components, Shadcn/UI, WebSocket dashboards
+- 🔥 **Cloudflare Workers** — Edge functions, KV, Durable Objects, R2, Workers AI
+- 🐍 **Python APIs** — Flask/FastAPI backends, scraping pipelines, automation APIs
+- 🧩 **Browser Extensions** — Chrome/Firefox MV3, content scripts, ad-blocking
 
 ---
 
 ## 🔐 Network Protocol Engineering
 
-> *"I speak the language routers speak."*
-
-| Protocol | What I do with it |
-|----------|-------------------|
-| **V2Ray** (VMess/VLESS) | Custom routing rules, WebSocket+TLS, CDN fronting |
-| **Hysteria 2** | QUIC tunneling, brutal congestion control, high-speed bypass |
-| **Shadowsocks** | Obfuscation plugins, multi-user servers, v2ray-plugin |
-| **WireGuard** | Kernel-space tunneling, peer mesh, split-tunneling |
-| **OpenVPN** | PKI setup, custom cipher suites, tun/tap routing |
-| **Trojan** | TLS camouflage, Nginx fallback, zero-log architecture |
-
----
-
-## 🛠 Full Stack at a Glance
+> Speaking the language routers speak — DPI bypass, GFW circumvention, zero-log architecture
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| 🔴 Protocol | ⚡ Expertise |
+|------------|-------------|
+| **V2Ray** (VMess/VLESS) | WebSocket+TLS transport · CDN fronting · custom routing rules |
+| **Hysteria 2** | QUIC tunneling · brutal congestion control · high-speed bypass |
+| **Shadowsocks** | obfs plugins · multi-user servers · v2ray-plugin obfuscation |
+| **WireGuard** | kernel-space tunneling · peer mesh · split-tunneling |
+| **OpenVPN** | PKI setup · custom cipher suites · tun/tap routing |
+| **Trojan** | TLS camouflage · Nginx fallback · zero-log architecture |
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FF6B00)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF6B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FF6B00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FF6B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF6B00)
+![Solana](https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&logoColor=FF6B00)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FF6B00)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FF6B00)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=FF6B00)
+![GCP](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FF6B00)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF6B00)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF6B00)
 
 </div>
 
@@ -134,78 +157,52 @@ PDF / Data Input
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ [solana-mev-bot](https://github.com/PrivyXe/solana-mev-bot)
-Industrial-grade MEV arbitrage engine.  
-Native Rust · Jito · Real-time dashboard  
-`Rust` `Solana` `Next.js` `WebSocket`
-
-</td>
-<td width="50%">
-
-### 📊 [Technicaly](https://github.com/PrivyXe/Technicaly)
-Professional TA platform. 30+ indicators,  
-pattern recognition, trading signals.  
-`Python` `Trading` `SaaS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [whatsmyip](https://github.com/PrivyXe/whatsmyip)
-Ad-free IP intelligence. Free API,  
-embeddable widget, speed test.  
-`JavaScript` `API` `Cloudflare`
-
-</td>
-<td width="50%">
-
-### 🛡️ [adblock-extensions](https://github.com/PrivyXe/adblock-extensions-)
-Chrome ad & YouTube blocker.  
-MV3 compliant, custom filter rules.  
-`JavaScript` `Chrome Extension`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PrivyXe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=FF6B35&text_color=ffffff)
+[![solana-mev-bot](https://github-readme-stats.vercel.app/api/pin/?username=PrivyXe&repo=solana-mev-bot&bg_color=0D1117&border_color=FF6B00&title_color=FF6B00&icon_color=FFA500&text_color=ffffff)](https://github.com/PrivyXe/solana-mev-bot)
+[![Technicaly](https://github-readme-stats.vercel.app/api/pin/?username=PrivyXe&repo=Technicaly&bg_color=0D1117&border_color=FF6B00&title_color=FF6B00&icon_color=FFA500&text_color=ffffff)](https://github.com/PrivyXe/Technicaly)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrivyXe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&text_color=ffffff)
+[![whatsmyip](https://github-readme-stats.vercel.app/api/pin/?username=PrivyXe&repo=whatsmyip&bg_color=0D1117&border_color=FF6B00&title_color=FF6B00&icon_color=FFA500&text_color=ffffff)](https://github.com/PrivyXe/whatsmyip)
+[![pymap](https://github-readme-stats.vercel.app/api/pin/?username=PrivyXe&repo=pymap&bg_color=0D1117&border_color=FF6B00&title_color=FF6B00&icon_color=FFA500&text_color=ffffff)](https://github.com/PrivyXe/pymap)
 
 </div>
 
 ---
 
-## 🤝 Open for Freelance
-
-I take on projects where **complexity is the challenge**, not just the deliverable.
-
-| Domain | Examples |
-|--------|---------|
-| 🤖 AI Automation | Content pipelines, PDF parsers, API integrations |
-| ⚡ Blockchain | Solana programs, trading bots, DeFi tooling |
-| 📱 Android | Kotlin apps, VPN clients, Bluetooth peripherals |
-| 🌐 Web & Edge | SaaS platforms, Cloudflare Workers, browser extensions |
-| 🔐 Network | VPN servers, proxy infrastructure, protocol clients |
+## 📊 Stats
 
 <div align="center">
 
-### 📬 [`t.me/e3x6v`](https://t.me/e3x6v)
-*Serious projects only. Response within 24h.*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivyXe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=ffffff&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrivyXe&hide_border=true&background=0D1117&ring=FF6B00&fire=FFA500&currStreakLabel=FF6B00&sideLabels=FFA500&dates=ffffff&stroke=0D1117" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PrivyXe&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
 
 ---
 
-*665 contributions · every commit solves a real problem*
+<!-- FOOTER CTA -->
+<div align="center">
+
+### 💼 Open for Freelance
+
+| 🤖 AI Automation | ⚡ Blockchain | 📱 Android | 🌐 Web & Edge | 🔐 Network |
+|:---:|:---:|:---:|:---:|:---:|
+| Content pipelines | Solana programs | Kotlin apps | SaaS platforms | VPN infra |
+| PDF parsers | Trading bots | VPN clients | CF Workers | Proxy servers |
+| API integrations | DeFi tooling | BT peripherals | Extensions | Protocol clients |
+
+<br/>
+
+[![HIRE ME](https://img.shields.io/badge/💬_CONTACT_ME-t.me%2Fe3x6v-0D1117?style=for-the-badge&labelColor=FF6B00)](https://t.me/e3x6v)
+
+*Serious projects only · Response within 24h*
 
 </div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=120&section=footer&animation=fadeIn&stroke=FF6B00&strokeWidth=1" />
