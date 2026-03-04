@@ -15,7 +15,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FF6B00)](https://t.me/e3x6v)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF6B00)](https://x.com/PrivyXe)
-[![Website](https://img.shields.io/badge/myipaddress.app-0D1117?style=for-the-badge&logo=firefox&logoColor=FF6B00)](https://myipaddress.app)
 [![Views](https://komarev.com/ghpvc/?username=PrivyXe&style=for-the-badge&color=0D1117&label=VISITORS&labelColor=0D1117)](https://github.com/PrivyXe)
 
 </div>
