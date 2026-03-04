@@ -1,0 +1,74 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulse { 0%,100%{opacity:.2} 50%{opacity:1} }
+      @keyframes flow { 0%{stroke-dashoffset:200} 100%{stroke-dashoffset:0} }
+      @keyframes fadein { from{opacity:0} to{opacity:1} }
+      .node { animation: pulse 3s infinite; }
+      .node:nth-child(2n) { animation-delay: .5s; }
+      .node:nth-child(3n) { animation-delay: 1s; }
+      .node:nth-child(4n) { animation-delay: 1.5s; }
+      .node:nth-child(5n) { animation-delay: 2s; }
+      .line { stroke-dasharray: 200; animation: flow 4s linear infinite; }
+      .line:nth-child(2n) { animation-delay: 1s; }
+      .line:nth-child(3n) { animation-delay: 2s; }
+      .title { animation: fadein 2s ease forwards; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="#0D1117"/>
+
+  <!-- Connection Lines -->
+  <line class="line" x1="60" y1="40" x2="180" y2="90" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="180" y1="90" x2="320" y2="50" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="320" y1="50" x2="460" y2="120" stroke="#FF8C00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="460" y1="120" x2="580" y2="60" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="580" y1="60" x2="720" y2="100" stroke="#FF8C00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="720" y1="100" x2="850" y2="40" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
+  <line class="line" x1="60" y1="40" x2="320" y2="50" stroke="#FF6B00" stroke-width="0.5" opacity="0.15"/>
+  <line class="line" x1="180" y1="90" x2="460" y2="120" stroke="#FF8C00" stroke-width="0.5" opacity="0.15"/>
+  <line class="line" x1="320" y1="50" x2="580" y2="60" stroke="#FF6B00" stroke-width="0.5" opacity="0.15"/>
+  <line class="line" x1="460" y1="120" x2="720" y2="100" stroke="#FF8C00" stroke-width="0.5" opacity="0.15"/>
+  <line class="line" x1="100" y1="160" x2="240" y2="140" stroke="#FF6B00" stroke-width="0.8" opacity="0.25"/>
+  <line class="line" x1="240" y1="140" x2="400" y2="170" stroke="#FF8C00" stroke-width="0.8" opacity="0.25"/>
+  <line class="line" x1="400" y1="170" x2="550" y2="145" stroke="#FF6B00" stroke-width="0.8" opacity="0.25"/>
+  <line class="line" x1="550" y1="145" x2="700" y2="165" stroke="#FF8C00" stroke-width="0.8" opacity="0.25"/>
+  <line class="line" x1="700" y1="165" x2="860" y2="150" stroke="#FF6B00" stroke-width="0.8" opacity="0.25"/>
+  <line class="line" x1="180" y1="90" x2="240" y2="140" stroke="#FF6B00" stroke-width="0.5" opacity="0.2"/>
+  <line class="line" x1="460" y1="120" x2="400" y2="170" stroke="#FF8C00" stroke-width="0.5" opacity="0.2"/>
+  <line class="line" x1="580" y1="60" x2="550" y2="145" stroke="#FF6B00" stroke-width="0.5" opacity="0.2"/>
+  <line class="line" x1="720" y1="100" x2="700" y2="165" stroke="#FF8C00" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Nodes -->
+  <circle class="node" cx="60" cy="40" r="3" fill="#FF6B00" opacity="0.9"/>
+  <circle class="node" cx="180" cy="90" r="4" fill="#FF8C00" opacity="0.9"/>
+  <circle class="node" cx="320" cy="50" r="3" fill="#FF6B00" opacity="0.9"/>
+  <circle class="node" cx="460" cy="120" r="5" fill="#FF8C00" opacity="0.9"/>
+  <circle class="node" cx="580" cy="60" r="3" fill="#FF6B00" opacity="0.9"/>
+  <circle class="node" cx="720" cy="100" r="4" fill="#FF8C00" opacity="0.9"/>
+  <circle class="node" cx="850" cy="40" r="3" fill="#FF6B00" opacity="0.9"/>
+  <circle class="node" cx="100" cy="160" r="3" fill="#FF8C00" opacity="0.8"/>
+  <circle class="node" cx="240" cy="140" r="4" fill="#FF6B00" opacity="0.8"/>
+  <circle class="node" cx="400" cy="170" r="3" fill="#FF8C00" opacity="0.8"/>
+  <circle class="node" cx="550" cy="145" r="4" fill="#FF6B00" opacity="0.8"/>
+  <circle class="node" cx="700" cy="165" r="3" fill="#FF8C00" opacity="0.8"/>
+  <circle class="node" cx="860" cy="150" r="3" fill="#FF6B00" opacity="0.8"/>
+  <!-- Small stars -->
+  <circle cx="30" cy="120" r="1.5" fill="#FF6B00" opacity="0.4"/>
+  <circle cx="140" cy="25" r="1.5" fill="#FF8C00" opacity="0.4"/>
+  <circle cx="260" cy="180" r="1.5" fill="#FF6B00" opacity="0.4"/>
+  <circle cx="380" cy="30" r="1.5" fill="#FF8C00" opacity="0.4"/>
+  <circle cx="500" cy="185" r="1.5" fill="#FF6B00" opacity="0.4"/>
+  <circle cx="640" cy="20" r="1.5" fill="#FF8C00" opacity="0.4"/>
+  <circle cx="780" cy="175" r="1.5" fill="#FF6B00" opacity="0.4"/>
+  <circle cx="880" cy="110" r="1.5" fill="#FF8C00" opacity="0.4"/>
+
+  <!-- Title -->
+  <text class="title" x="450" y="105" font-family="monospace" font-size="52" font-weight="bold"
+    fill="#FF6B00" text-anchor="middle" letter-spacing="8">PRIVYXE</text>
+  <text class="title" x="450" y="130" font-family="monospace" font-size="13"
+    fill="#FF8C00" text-anchor="middle" letter-spacing="3" opacity="0.85">
+    Systems Engineer · AI · Blockchain · Network
+  </text>
+</svg>
