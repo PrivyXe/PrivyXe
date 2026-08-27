@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/PrivyXe/PrivyXe/main/banner.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/PrivyXe/PrivyXe/main/banner.svg" alt="PrivyXe Banner" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=🔥+Building+systems+others+can't+imagine...;⚡+Solana+MEV+%7C+AI+Automation+%7C+Android;🌐+Cloudflare+Workers+%7C+VPN+Protocols;🤖+Vertex+AI+%7C+GPT+Pipelines+%7C+PDF+Parsers;📡+V2Ray+%7C+Hysteria2+%7C+WireGuard+%7C+Shadowsocks;💀+Open+for+freelance+→+t.me%2Fe3x6v" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=FF6B00&center=true&vCenter=true&width=620&lines=⚡+Systems+Architect+%7C+Low-Latency+%26+Distributed+Systems;🦀+Solana+Native+Rust+%7C+Jito+MEV+%7C+DeFi+Infrastructure;🤖+Vertex+AI+%7C+Multi-LLM+Orchestration+%26+Data+Pipelines;📡+Network+Engineering+%7C+WireGuard+%7C+V2Ray+%7C+Hysteria2;📱+Kotlin+Android+%7C+Native+Networking+%7C+BLE+Protocols;💼+Available+for+High-Impact+Contract+%26+Consulting" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,148 +13,99 @@
 <!-- BADGES -->
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FF6B00)](https://t.me/e3x6v)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF6B00)](https://x.com/PrivyXe)
-[![Views](https://komarev.com/ghpvc/?username=PrivyXe&style=for-the-badge&color=0D1117&label=VISITORS&labelColor=0D1117)](https://github.com/PrivyXe)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-0D1117?style=for-the-badge&logo=telegram&logoColor=FF6B00)](https://t.me/e3x6v)
+[![X](https://img.shields.io/badge/X-@PrivyXe-0D1117?style=for-the-badge&logo=x&logoColor=FF6B00)](https://x.com/PrivyXe)
+[![Views](https://komarev.com/ghpvc/?username=PrivyXe&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/PrivyXe)
 
 </div>
 
 ---
 
-<!-- ABOUT -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=PrivyXe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FFA500&text_color=ffffff&ring_color=FF6B00" />
+<!-- ABOUT & OVERVIEW -->
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=PrivyXe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FFA500&text_color=ffffff&ring_color=FF6B00" alt="PrivyXe GitHub Stats" />
 
 ### `> whoami`
 
-```
-Name     : PrivyXe
-Location : Turkey 🇹🇷
-Contact  : t.me/e3x6v
-Status   : Open for freelance
-Mindset  : "If it can be automated,
-            it will be automated."
+```yaml
+Name        : PrivyXe
+Specialization : High-Performance Systems & Network Engineering
+Location    : Turkey 🇹🇷
+Availability: Open for Contract & Consulting
+Core Focus  : "Architecting resilient, low-latency and automated systems."
 ```
 
-### `> cat skills.txt`
+### `> technical_domains`
 ```
-🤖 AI & Automation
-⚡ Blockchain & MEV
-📱 Android & Mobile
-🌐 Web · SaaS · Edge
-🔐 Network Protocols
-📊 Trading & TA
+⚡ High-Throughput & Blockchain Systems (Solana / Rust / MEV)
+🤖 AI Pipelines & Autonomous Workflow Orchestration
+🔐 Low-Level Networking & Traffic Camouflage Protocols
+📱 Native Mobile Architecture (Android / Kotlin / NDK)
+🌐 Scalable Edge & Serverless Computing (Cloudflare / Next.js)
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🤖 AI & Automation
+## ⚡ Core Engineering Domains
 
-<img align="left" width="38" src="https://skillicons.dev/icons?i=gcp"/>
-<img align="left" width="38" src="https://skillicons.dev/icons?i=python"/>
-<img align="left" width="38" src="https://skillicons.dev/icons?i=js"/>
-
-<br/><br/>
-
-> **Vertex AI** · **GPT APIs** · **Anthropic** — production pipelines, not toy demos
-
-- 🔥 **AutoNews Engine** — AI pipeline → SEO optimize → auto-publish, fully autonomous
-- 📝 **Niche Article Bot** — keyword targeting, internal linking, long-form generation
-- 🩺 **Health PDF Interpreter** — blood test upload → AI lab parser → plain-language report
-- ⚙️ **API Orchestrator** — multi-provider AI pipelines (GCP · OpenAI · Anthropic)
+### 🦀 High-Throughput Blockchain & MEV
+> **Native Rust** · **Jito Block Engine** · **Zero-Copy Memory Optimization**
+- **Solana MEV Infrastructure** — High-performance native Rust execution (non-Anchor), zero-copy deserialization via `bytemuck`, optimized compute units, and panic-free error propagation.
+- **Jito MEV Pipelines** — Dynamic tip-auction orchestration, atomic bundle execution, sub-millisecond simulation validation, and balance delta verification.
+- **Algorithmic Analytics Engine** — 30+ quantitative indicators and pattern recognition modules with automated real-time event alerts.
 
 ---
 
-## ⚡ Blockchain & Trading
-
-<img align="left" width="38" src="https://skillicons.dev/icons?i=rust"/>
-
-<br/><br/>
-
-> **Solana Native Rust** · **Jito MEV** · **Technical Analysis** — where milliseconds are money
-
-- ⚡ **Solana MEV Bot** — Native Rust, no Anchor, zero-copy `bytemuck`, panic-free `ArbError`
-- 🎯 **Jito Bundle Engine** — dynamic tip accounts, `simulateTransaction`, pre/post balance delta
-- 📊 **TA Platform** — 30+ indicators (RSI, MACD, Bollinger), 30+ patterns, regime detection
-- 🤖 **Signal Bots** — Python algo generators, Telegram & webhook alerts
+### 🤖 AI Engineering & Autonomous Pipelines
+> **Vertex AI** · **OpenAI** · **Anthropic Claude** · **Enterprise Multi-Agent Systems**
+- **Autonomous Publishing Pipelines** — End-to-end ingestion, semantic transformation, SEO optimization, and scheduled multi-channel distribution.
+- **Document & Medical Data Parsers** — High-accuracy unstructured PDF data extraction, laboratory report parsing, and normalized JSON output generation.
+- **Resilient AI Orchestration Layer** — Multi-provider fallback pipelines with rate-limiting, context caching, and structured schema enforcement.
 
 ---
 
-## 📱 Android & Mobile
-
-<img align="left" width="38" src="https://skillicons.dev/icons?i=kotlin"/>
-<img align="left" width="38" src="https://skillicons.dev/icons?i=androidstudio"/>
-
-<br/><br/>
-
-> **Kotlin-first** · **MVVM** · **Coroutines** — apps that feel native, not assembled
-
-- 📱 **Architecture** — MVVM, Coroutines, Flow, Jetpack Compose
-- 🔐 **VPN Clients** — WireGuard Android SDK, OpenVPN3, custom protocol integration
-- 📡 **Bluetooth HID** — custom keyboard/peripheral apps, BLE communication
-- 🌐 **Network-aware** — proxy routing, traffic monitoring, DNS control in-app
-
----
-
-## 🌐 Web, SaaS & Edge
-
-<img align="left" width="38" src="https://skillicons.dev/icons?i=nextjs"/>
-<img align="left" width="38" src="https://skillicons.dev/icons?i=cloudflare"/>
-<img align="left" width="38" src="https://skillicons.dev/icons?i=python"/>
-
-<br/><br/>
-
-> **Next.js** · **Cloudflare Workers** · **Python** — ship fast, scale silently
-
-- ⚡ **Next.js SaaS** — App Router, Server Components, Shadcn/UI, WebSocket dashboards
-- 🔥 **Cloudflare Workers** — Edge functions, KV, Durable Objects, R2, Workers AI
-- 🐍 **Python APIs** — Flask/FastAPI backends, scraping pipelines, automation APIs
-- 🧩 **Browser Extensions** — Chrome/Firefox MV3, content scripts, ad-blocking
-
----
-
-## 🔐 Network Protocol Engineering
-
-> Speaking the language routers speak — DPI bypass, GFW circumvention, zero-log architecture
+### 🔐 Network Protocol & Security Engineering
+> **Packet Analysis** · **Deep Packet Inspection (DPI) Mitigation** · **Zero-Log Architecture**
 
 <div align="center">
 
-| 🔴 Protocol | ⚡ Expertise |
-|------------|-------------|
-| **V2Ray** (VMess/VLESS) | WebSocket+TLS transport · CDN fronting · custom routing rules |
-| **Hysteria 2** | QUIC tunneling · brutal congestion control · high-speed bypass |
-| **Shadowsocks** | obfs plugins · multi-user servers · v2ray-plugin obfuscation |
-| **WireGuard** | kernel-space tunneling · peer mesh · split-tunneling |
-| **OpenVPN** | PKI setup · custom cipher suites · tun/tap routing |
-| **Trojan** | TLS camouflage · Nginx fallback · zero-log architecture |
+| Protocol | Implementation & Architecture Focus |
+|:---|:---|
+| **WireGuard** | Kernel-space tunneling, peer-to-peer mesh topologies, and split-tunnel routing |
+| **Hysteria 2** | Custom QUIC tunneling with aggressive congestion control under hostile network loss |
+| **V2Ray / Xray** | VMess / VLESS over WebSocket + TLS, CDN fronting, and dynamic rule-based routing |
+| **Shadowsocks** | Multi-tenant deployments with SIP003 obfuscation plugins and encrypted transports |
+| **Trojan / TLS** | Advanced TLS camouflage with active probe defense and fallback endpoints |
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+### 📱 Native Mobile & Edge Computing
+> **Kotlin** · **Jetpack Compose** · **Cloudflare Workers** · **Next.js**
+- **Modern Android Architecture** — Reactive architecture using MVVM, Kotlin Coroutines, StateFlow, and low-level NDK integrations.
+- **Custom Network & Peripheral Apps** — WireGuard/OpenVPN client development, split tunneling, and Bluetooth Low Energy (BLE) HID drivers.
+- **Edge & Serverless Infrastructure** — Cloudflare Workers (KV, Durable Objects, D1, Queues), high-concurrency Python/FastAPI microservices, and modern Next.js dashboards.
+
+---
+
+## 🛠 Technology & Tooling Matrix
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FF6B00)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF6B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FF6B00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FF6B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF6B00)
-![Solana](https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&logoColor=FF6B00)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FF6B00)
-![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FF6B00)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=FF6B00)
-![GCP](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FF6B00)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF6B00)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF6B00)
+| Category | Technologies & Tools |
+|:---|:---|
+| **Languages** | `Rust` `Python` `Kotlin` `TypeScript` `JavaScript` `C/C++` `SQL` `Bash` |
+| **Blockchain & Systems** | `Solana Native` `Jito MEV` `gRPC` `WebSockets` `Protobuf` `Linux Internals` |
+| **Cloud & Edge** | `Cloudflare Workers / Pages` `Google Cloud Platform` `Docker` `Nginx` |
+| **Frameworks & UI** | `Next.js` `FastAPI` `Flask` `Jetpack Compose` `TailwindCSS` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Open Source & Projects
 
 <div align="center">
 
@@ -168,18 +119,18 @@ Mindset  : "If it can be automated,
 
 ---
 
-## 📊 Stats
+## 📊 Activity & Performance Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivyXe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivyXe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrivyXe&hide_border=true&background=0D1117&ring=FF6B00&fire=FFA500&currStreakLabel=FF6B00&sideLabels=FFA500&dates=ffffff&stroke=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrivyXe&hide_border=true&background=0D1117&ring=FF6B00&fire=FFA500&currStreakLabel=FF6B00&sideLabels=FFA500&dates=ffffff&stroke=0D1117" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PrivyXe&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PrivyXe&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -187,21 +138,22 @@ Mindset  : "If it can be automated,
 <!-- FOOTER CTA -->
 <div align="center">
 
-### 💼 Open for Freelance
+### 💼 Open for Contract, Consulting & Engineering Collaborations
 
-| 🤖 AI Automation | ⚡ Blockchain | 📱 Android | 🌐 Web & Edge | 🔐 Network |
-|:---:|:---:|:---:|:---:|:---:|
-| Content pipelines | Solana programs | Kotlin apps | SaaS platforms | VPN infra |
-| PDF parsers | Trading bots | VPN clients | CF Workers | Proxy servers |
-| API integrations | DeFi tooling | BT peripherals | Extensions | Protocol clients |
+| ⚡ Blockchain & MEV | 🤖 AI Automation & Data | 🔐 Network Engineering | 📱 Mobile & Edge SaaS |
+|:---:|:---:|:---:|:---:|
+| Solana native programs | Autonomous AI pipelines | Custom VPN & proxy stacks | Kotlin / Compose apps |
+| Jito bundle integrations | PDF/Document extractors | DPI bypass & traffic stealth | Cloudflare edge architectures |
+| Low-latency trade execution | Multi-LLM API backends | Protocol implementation | Fullstack Next.js dashboards |
 
 <br/>
 
-[![HIRE ME](https://img.shields.io/badge/💬_CONTACT_ME-t.me%2Fe3x6v-0D1117?style=for-the-badge&labelColor=FF6B00)](https://t.me/e3x6v)
+[![Contact on Telegram](https://img.shields.io/badge/Initiate_Discussion-t.me%2Fe3x6v-0D1117?style=for-the-badge&logo=telegram&logoColor=FF6B00&labelColor=0D1117)](https://t.me/e3x6v)
 
-*Serious projects only · Response within 24h*
+*Available for select high-impact technical initiatives.*
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=120&section=footer&animation=fadeIn&stroke=FF6B00&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=120&section=footer&animation=fadeIn&stroke=FF6B00&strokeWidth=1" alt="Footer Banner" />
+
