@@ -4,8 +4,8 @@
 
   # PrivyXe
 
-  **Systems Engineer & Solutions Architect**  
-  *High-Throughput Systems · Low-Latency Blockchain (Solana / MEV) · AI Pipelines · Network Protocol Engineering*
+  **Systems Engineer · Software Architect · Product Builder**  
+  *Distributed Systems · Cloud & Edge Computing · Network Engineering · Automation · AI Systems*
 
   <br/>
 
@@ -17,67 +17,160 @@
 
 ---
 
-### 👨‍💻 Overview
+### 👨‍💻 About
 
-I specialize in architecting and implementing performance-critical software systems across distributed networks, decentralized finance, and automated artificial intelligence pipelines. 
+I design and build performance-oriented software systems, automation platforms, and cloud-native products.
 
-My work primarily revolves around low-latency execution environments, low-level network protocol design, and end-to-end autonomous systems built for resilience, speed, and scale.
+My work sits at the intersection of:
+- **Distributed systems** & high-throughput architectures
+- **Backend & systems programming**
+- **Network & protocol engineering**
+- **Serverless & edge computing**
+- **AI-powered automation**
+- **Financial & quantitative systems**
+- **Native Android** (low-level & system functionality)
+- **Developer-focused infrastructure**
 
----
+I prefer building systems from the architecture up — from low-level computation and protocol handling to APIs, automation, infrastructure, and user-facing products.
 
-### ⚡ Core Technical Expertise
-
-#### 🦀 High-Throughput & Blockchain Systems
-* **Solana & Native Rust:** Low-latency on-chain programs without framework overhead, zero-copy serialization (`bytemuck`), compute-unit budget optimizations, and custom validator routing.
-* **MEV & High-Frequency Pipelines:** Integration with the Jito Block Engine, dynamic tip auctions, sub-millisecond atomic transaction simulation, and pre/post state delta verification.
-* **Algorithmic Analytics:** Custom financial analysis engines, 30+ quantitative indicators, market regime classification, and automated alert infrastructure.
-
-#### 🤖 AI Engineering & Autonomous Workflows
-* **Production AI Pipelines:** Enterprise-grade orchestration using Google Cloud Vertex AI, OpenAI, and Anthropic Claude APIs with strict schema validation and fallback mechanisms.
-* **Intelligent Document Extraction:** High-accuracy extraction and structured transformation of complex unstructured PDFs and medical/laboratory reports.
-* **Autonomous Agents:** Self-healing data harvesting pipelines, automated SEO engines, and asynchronous multi-step task runners.
-
-#### 🔐 Network Protocols & Security Architecture
-* **Traffic Camouflage & Proxying:** Deep Packet Inspection (DPI) circumvention, V2Ray (VMess/VLESS over WS+TLS), Trojan-GFW, and Shadowsocks with custom obfuscation.
-* **Modern VPN & Transport Protocols:** Kernel-space WireGuard mesh deployment, Hysteria 2 (QUIC-based aggressive congestion control), and zero-log infrastructure.
-* **Packet & Traffic Analysis:** Custom routing topologies, DNS leak protection, and low-level proxy routing on Linux and Android.
-
-#### 📱 Mobile & Edge Systems
-* **Native Android:** Modern reactive architecture with Kotlin, Jetpack Compose, Coroutines/Flow, and C++ NDK integration for networking and BLE HID peripherals.
-* **Edge & Cloud Compute:** Cloudflare Workers, KV, Durable Objects, D1, high-performance FastAPI/Flask services, and containerized Docker environments.
+> **The goal is simple:**  
+> Build systems that are **fast**, **autonomous**, **scalable**, and **cheap to operate**.
 
 ---
 
-### 🛠 Tech Stack
+### ⚙️ What I Build
 
-| Domain | Technologies & Frameworks |
+#### 🧠 Systems & Backend Engineering
+* High-performance backend services
+* Go-based distributed systems & C/C++ native components
+* Low-latency data processing
+* WebSocket and real-time streaming architectures
+* REST / RPC APIs & concurrent/asynchronous workflows
+* PostgreSQL and distributed data pipelines
+
+#### ☁️ Serverless & Edge Architecture
+I strongly favor serverless and edge-first architectures when they make economic and technical sense.
+* **Core Stack:** Cloudflare Workers, Cloudflare D1, KV, Durable Objects, Cloudflare Pages
+* Edge APIs & stateless architectures
+* Event-driven systems & serverless automation
+
+> *The objective is not to deploy more infrastructure. The objective is to deploy less infrastructure while handling more traffic.*
+
+#### 🌐 Network Engineering & Security
+I work close to the network layer when the problem requires it:
+* DNS and traffic routing
+* Proxy architectures & VPN infrastructure
+* **Protocols:** WireGuard, V2Ray / VLESS / VMess, QUIC-based transports, WebSockets
+* Traffic analysis, network privacy & Android traffic interception
+* Low-level Linux networking
+
+*Particularly focused on systems where network behavior, performance, privacy, and reliability intersect.*
+
+#### 🤖 AI & Automation
+*AI is most useful when it becomes part of a system rather than a chatbot sitting on top of one.*
+* Automated AI pipelines & structured LLM workflows
+* Multi-step autonomous agents
+* Document extraction systems (PDF, medical, structured data)
+* Automated content generation & SEO automation
+* Fallback, schema validation, and event-driven automation layers
+
+```
+Input ──► Processing ──► Validation ──► Decision ──► Action ──► Monitoring
+```
+
+#### 📊 Quantitative & Trading Systems
+Automated financial systems built around data integrity and measurable logic:
+* Market data processing & WebSocket market streams
+* Quantitative indicators & technical analysis engines
+* Market regime detection & swing/reversal engines
+* Automated execution, risk management & backtesting
+* Telegram-based real-time alerting & monitoring
+
+*The focus is not on producing random signals; it is on building measurable systems where assumptions can be tested against data.*
+
+#### 📱 Android & Edge Applications
+Native Android development with a focus on system-level functionality:
+* Kotlin, Jetpack Compose, Coroutines / Flow
+* Android networking, `VpnService`, and traffic control
+* C/C++ NDK integrations & Bluetooth Low Energy (BLE)
+* Background processing & local-first architectures
+
+*Operating below the traditional application layer — networking, privacy, filtering, automation, and device-level capabilities.*
+
+---
+
+### 🛠 Technology Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | `Rust` `Python` `Kotlin` `TypeScript` `JavaScript` `C/C++` `SQL` `Bash` |
-| **Blockchain & Systems** | `Solana Native` `Jito MEV` `gRPC` `WebSockets` `Protobuf` `Linux Internals` |
-| **Cloud, Edge & Networks** | `Cloudflare Workers` `Google Cloud Platform (GCP)` `Docker` `WireGuard` `Nginx` |
-| **Frameworks & UI** | `Next.js` `FastAPI` `Flask` `Jetpack Compose` `TailwindCSS` |
+| **Languages** | `Go` `Rust` `C` `C++` `Python` `Kotlin` `TypeScript` `JavaScript` `SQL` `Bash` |
+| **Backend** | `Go` `FastAPI` `Flask` `WebSockets` `REST` |
+| **Systems** | `Linux` `Docker` `PostgreSQL` `gRPC` `Protobuf` |
+| **Cloud / Edge** | `Cloudflare Workers` `D1` `KV` `Durable Objects` `Pages` |
+| **Networking** | `WireGuard` `V2Ray` `VLESS` `VMess` `QUIC` `DNS` `Nginx` |
+| **AI** | `OpenAI` `Anthropic` `Google Cloud Vertex AI` `LLM Pipelines` |
+| **Android** | `Kotlin` `Jetpack Compose` `Coroutines` `Flow` `NDK` |
+| **Frontend** | `Next.js` `TypeScript` `TailwindCSS` |
 
 ---
 
-### 📌 Featured Repositories
+### 🚀 Selected Projects
 
-- **[solana-mev-bot](https://github.com/PrivyXe/solana-mev-bot)** — High-performance Solana MEV and arbitrage execution engine written in native Rust with Jito bundle integration.
-- **[Technicaly](https://github.com/PrivyXe/Technicaly)** — Comprehensive quantitative technical analysis engine supporting 30+ technical indicators and automated signal generation.
-- **[whatsmyip](https://github.com/PrivyXe/whatsmyip)** — Lightweight network identity, geolocation, and routing inspection service with real-time protocol analysis.
-- **[pymap](https://github.com/PrivyXe/pymap)** — Fast asynchronous port scanning and network reconnaissance utility in Python.
+* **[🌌 NatalKit](https://natalkit.com/)** — A technical astrology platform built around a custom astronomical calculation engine. Powered by a Go backend, C-based calculation engine with Swiss Ephemeris, transits, progressions, synastry, multiple house systems, automated reports, and an API-oriented architecture.
+* **📈 Automated Trading Systems** — Algorithmic trading infrastructure designed around market structure, multi-timeframe analysis, quantitative indicators, trend/reversal detection, automated execution, and strict risk management.
+* **🛡️ Privacy & Network Systems** — Experimental and production-oriented projects focusing on DNS filtering, ad/tracker blocking, VPN-based traffic control, Android network interception, and device-layer privacy enforcement.
+* **🌐 Cloudflare / Edge Projects** — A collection of lightweight, zero-maintenance services designed around serverless economics (network identity tools, IP inspection, monitoring systems, and edge automation).
 
 ---
 
-### 💼 Contact & Collaborations
+### 🧩 Engineering Philosophy
 
-Available for **consulting, high-impact contract roles, and technical architecture partnerships**.
+I don't optimize for technology hype. I optimize for:
+* **Performance**
+* **Reliability**
+* **Operational simplicity**
+* **Low infrastructure cost**
+* **Automation**
+* **Scalability & measurable results**
+
+> - *If a system can be built with 10 components instead of 40, I prefer 10.*
+> - *If a server can be removed, I remove it.*
+> - *If a manual process can be automated, I automate it.*
+> - *If an architecture cannot scale economically, I redesign it.*
+
+---
+
+### 🔬 Current Interests
+
+* Distributed systems & high-performance Go / Rust
+* Cloudflare Workers & edge computing architectures
+* Network protocol engineering & privacy systems
+* AI agents and autonomous production pipelines
+* Quantitative & financial systems
+* Blockchain infrastructure & Solana
+* Android low-level networking
+
+---
+
+### 💼 Collaboration & Consulting
+
+Available for:
+* **Systems Architecture & Backend Engineering**
+* **Network & Protocol Engineering**
+* **Cloud / Edge Architecture (Cloudflare)**
+* **AI Automation & Autonomous Pipelines**
+* **Performance Optimization & Technical Consulting**
+
+```
+Build less infrastructure. Automate more. Scale intelligently.
+```
 
 - **Telegram:** [@e3x6v](https://t.me/e3x6v)
 - **X / Twitter:** [@PrivyXe](https://x.com/PrivyXe)
-- **Location:** Turkey 🇹🇷 (UTC+3)
+- **GitHub:** [@PrivyXe](https://github.com/PrivyXe)
 
 ---
 
 <div align="center">
-  <sub>© PrivyXe · Built for performance, autonomy, and scale.</sub>
+  <sub>© PrivyXe · Systems, Automation & Infrastructure</sub>
 </div>
